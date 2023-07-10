@@ -1,4 +1,4 @@
-# [111. Minimum Depth of Binary Tree](question-link) 
+# [111. Minimum Depth of Binary Tree]([question-link](https://leetcode.com/problems/minimum-depth-of-binary-tree/)) 
 Given a binary tree, find its minimum depth.
 
 The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
@@ -24,4 +24,3 @@ Output: 5
 
 * The number of nodes in the tree is in the range [0, 105].
 * -1000 <= Node.val <= 1000
-[question-link]: https://leetcode.com/problems/find-pivot-index/?envType=study-plan-v2&envId=leetcode-75
