@@ -21,4 +21,4 @@ Explanation: There is no way to pick up a set of consecutive cards that contain 
 ### Constraints:
 
 * 1 <= cards.length <= 10^5
-* 0 <= cards[i] <= 106
+* 0 <= cards[i] <= 10^6
