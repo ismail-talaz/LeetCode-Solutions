@@ -5,7 +5,7 @@ For example, if arr = [1, 2] and k = 3 then the modified array will be [1, 2, 1,
 
 Return the maximum sub-array sum in the modified array. Note that the length of the sub-array can be 0 and its sum in that case is 0.
 
-As the answer can be very large, return the answer modulo 109 + 7.
+As the answer can be very large, return the answer modulo 10^9 + 7.
 
  
 
