@@ -12,6 +12,4 @@ class Solution:
             mydict[curr]=i
         
         if res<len(nums):return res
-        else:
-            print(res)
-            return -1
+        else:return -1
