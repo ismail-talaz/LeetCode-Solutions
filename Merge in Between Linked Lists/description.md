@@ -6,7 +6,7 @@ Remove list1's nodes from the ath node to the bth node, and put list2 in their p
 
 The blue edges and nodes in the following figure indicate the result:
 
-![img](https://assets.leetcode.com/uploads/2020/11/05/fig1.png)
+![imgg](https://assets.leetcode.com/uploads/2020/11/05/fig1.png)
 Build the result list and return its head.
 
  
