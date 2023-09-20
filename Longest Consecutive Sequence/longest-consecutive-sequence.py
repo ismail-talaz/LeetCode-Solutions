@@ -4,8 +4,8 @@ class Solution:
         mySet=set(nums)
         visited=set()
 
-        for num in nums:
-            currlen=1
+        for num in nums:                                  # Time Complexity O(n)
+            currlen=1                                     # Space Complexity O(n)
             curr=num
             if num in visited:continue
             visited.add(curr)
