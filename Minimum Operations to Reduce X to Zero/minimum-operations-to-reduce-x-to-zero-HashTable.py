@@ -5,8 +5,8 @@ class Solution:
         length=len(nums)
 
         leftsum,rightsum=0,0
-        for i in range(length):
-            leftsum+=nums[i]
+        for i in range(length):                       # Time Complexity O(N)
+            leftsum+=nums[i]                          # Space Complexity O(N)
             hasht[leftsum]=i
             
         result=float('inf')
