@@ -4,7 +4,6 @@ Given a binary array nums, return the maximum length of a contiguous subarray wi
  
 
 ### Example 1:
-[/img][https://assets.leetcode.com/uploads/2021/01/28/kthtree1.jpg]
 ```text
 Input: nums = [0,1]
 Output: 2
